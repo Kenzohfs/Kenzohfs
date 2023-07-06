@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   </a>
     <a href="https://angular.io" target="_blank">
-        <img src="https://img.shields.io/badge/:badgeContent?logo=angular" alt="Angular">
+        <img src="	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whiter" alt="Angular">
+        
   </a>
 </p>
