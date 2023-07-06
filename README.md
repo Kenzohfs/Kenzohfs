@@ -22,9 +22,9 @@
 
 <a href="https://github.com/kenzohfs" text-decoration="none">
     <div display:"flex">
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=kenzohfs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=kenzohfs&theme=dark&hide_border=true" >
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenzohfs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzohfs&layout=compact&langs_count=7&theme=github_dark"/>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kenzohfs&theme=dark&hide_border=true" >
     </div>
 </a>
 
