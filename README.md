@@ -20,8 +20,8 @@
     
 ## ✨ Estatísticas:
 
-<a href="https://github.com/thiago-m-braga" text-decoration="none">
-    <div display:"flex">
+<a href="https://github.com/kenzohfs" text-decoration="none">
+    <div display:"flex" justifyContent:"center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenzohfs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzohfs&layout=compact&langs_count=7&theme=github_dark"/>
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" >
