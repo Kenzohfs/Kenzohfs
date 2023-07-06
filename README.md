@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Me chamo Kenzo!</h1>
+<h1 align="center">Olá! Me chamo Kenzo Sato!</h1>
 
 <div> 
     <div align="center">
@@ -21,7 +21,7 @@
 ## ✨ Estatísticas:
 
 <a href="https://github.com/kenzohfs" text-decoration="none">
-    <div display:"flex" justifyContent:"center">
+    <div display:"flex">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenzohfs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzohfs&layout=compact&langs_count=7&theme=github_dark"/>
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" >
@@ -30,6 +30,6 @@
 
 
 ## 📬 Entre em contato comigo:
-<div> 
-   <a href="https://instagram.com/thiaguh_braga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
+    <a href = "mailto:thiagomarinsbraga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
