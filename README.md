@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">👋 Olá! Me chamo Kenzo!</h1>
 
-<!--
-**Kenzohfs/Kenzohfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+    <div align="center">
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Thiago-M-Braga)](https://github.com/Kenzohfs)
+   </div>
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+
+⇨ Técnico em Desenvolvimento de Sistemas pelo SENAI - 2020-2022
+
+⇨ Aprendizagem Industrial Programado de Sistemas de Informação pela WEG - 2022-ongoing.
+
+⇨ Técnólogo em Análise e Desenvolvimento de Sistemas pelo UniSENAI - 2023-ongoing.
+
+
+</div>
+    
+## ✨ Estatísticas:
+
+<a href="https://github.com/thiago-m-braga" text-decoration="none">
+    <div display:"flex">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenzohfs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzohfs&layout=compact&langs_count=7&theme=github_dark"/>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" >
+    </div>
+</a>
+
+
+## 📬 Entre em contato comigo:
+<div> 
+   <a href="https://instagram.com/thiaguh_braga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
