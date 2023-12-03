@@ -11,7 +11,7 @@
 
 ⇨ Técnico em Desenvolvimento de Sistemas pelo SENAI - 2020-2022
 
-⇨ Aprendizagem Industrial Programado de Sistemas de Informação pela WEG - 2022-ongoing.
+⇨ Aprendizagem Industrial Programado de Sistemas de Informação pela WEG - 2021-2023.
 
 ⇨ Técnólogo em Análise e Desenvolvimento de Sistemas pelo UniSENAI - 2023-ongoing.
 
