@@ -13,8 +13,9 @@
 
 ⇨ Aprendizagem Industrial Programado de Sistemas de Informação pela WEG - 2021-2023.
 
-⇨ Técnólogo em Análise e Desenvolvimento de Sistemas pelo UniSENAI - 2023-ongoing.
+⇨ Técnólogo em Análise e Desenvolvimento de Sistemas pelo UniSENAI - 2023-2024.
 
+⇨ Pós graduação em Software Architecture pela FIAP - 2025-ongoing
 
 </div>
     
